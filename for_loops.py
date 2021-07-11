@@ -1,4 +1,4 @@
-'''tou
+'''
 f1 = ['Banana','Mangoes','Watermelon','Grapes']
 for item in f1:
     print(item)
